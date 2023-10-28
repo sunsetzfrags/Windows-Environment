@@ -1,1 +1,3 @@
-# Windows-Environment
+# 🚀 Windows Environment for VALORANT and Content Creation
+
+This repository aims to simplify the installation of applications through a PowerShell script, creating an environment tailored to the competitive world of VALORANT and content creation.
